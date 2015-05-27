@@ -11,9 +11,9 @@ Tweets from @BCTransit.
 BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
 ----------
 Full description:
-This app adds Victoria Regional Transit System buses information to MonTransit BETA.
+This app adds Victoria Regional Transit System (BC Transit) buses information to MonTransit BETA.
 
-This app provides the buses schedule and news YouTube and @BCTransit on Twitter.
+This app provides the buses schedule and news from YouTube and @BCTransit on Twitter.
 
 BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
 
