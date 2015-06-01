@@ -6,14 +6,12 @@ Schedule. Alerts. News.
 ----------
 What's new in this version?:
 Schedule from April 6, 2015 to June 28, 2015.
-// News from bctransit.com.
 Tweets from @BCTransit.
 ----------
 Full description:
 This app adds Victoria Regional Transit System (BC Transit) buses information to MonTransit.
 
 This app provides the buses schedule and news from YouTube and @BCTransit on Twitter.
-// bctransit.com,
 
 Victoria Regional Transit System buses serve Victoria in British Columbia, Canada.
 
@@ -33,7 +31,6 @@ This app is not related with BC Transit, Victoria Regional Transit System and Vi
 
 Permissions:
 - Other: required to read news from YouTube and Twitter
-//  bctransit.com,
 ----------
 Application type: Applications
 ----------
