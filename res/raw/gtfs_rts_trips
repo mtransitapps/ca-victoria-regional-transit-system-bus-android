@@ -26,9 +26,6 @@
 1500,0,'UVic',15
 1600,0,'UVic',16
 1601,0,'Uptown',16
-1701,0,'Downtown',17
-1700,0,'UVic',17
-1900,0,'Hillside Mall',19
 2100,0,'Camosun',21
 2101,0,'Downtown',21
 2201,0,'Hillside Mall',22
@@ -44,11 +41,11 @@
 2801,0,'Downtown',28
 2800,0,'Majestic',28
 3001,0,'James Bay',30
-3000,0,'Royal Oak Ex',30
+3000,0,'Royal Oak Exch',30
 3101,0,'James Bay',31
-3100,0,'Royal Oak Ex',31
+3100,0,'Royal Oak Exch',31
 3200,0,'Cordova Bay',32
-3201,0,'Royal Oak Ex',32
+3201,0,'Royal Oak Exch',32
 3500,0,'Rdg',35
 3901,0,'Royal Oak / Camosun / Royal Roads',39
 3900,0,'UVic',39
@@ -60,13 +57,13 @@
 5001,0,'Langford',50
 5101,0,'Langford',51
 5100,0,'UVic',51
-5200,0,'Colwood Ex',52
+5200,0,'Colwood Exch',52
 5201,0,'Millstream / Bear Mtn',52
-5300,0,'Colwood Ex',53
-5301,0,'Langford Ex',53
+5300,0,'Colwood Exch',53
+5301,0,'Langford Exch',53
 5400,0,'Metchosin',54
-5501,0,'Colwood Ex / Happy Vly',55
-5601,0,'Langford Ex',56
+5501,0,'Happy Vly / Colwood Exch',55
+5601,0,'Langford Exch',56
 5600,0,'Thetis Hts',56
 5700,0,'Thetis Hts',57
 5701,0,'Westhills',57
@@ -87,7 +84,7 @@
 7500,0,'Saanichton',75
 8101,0,'Brentwood',81
 8100,0,'Swartz Bay',81
-8301,0,'Brentwood / Royal Oak Ex',83
+8301,0,'Brentwood / Royal Oak Exch',83
 8300,0,'Sidney',83
 8501,0,'North Saanich',85
 8801,0,'Airport',88
