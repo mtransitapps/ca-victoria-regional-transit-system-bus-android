@@ -5,7 +5,7 @@ Victoria Regional Transit System buses for MonTransit.
 Schedule. Alerts. News.
 ----------
 What's new in this version?:
-Schedule from February 3, 2016 to April 3, 2016.
+Schedule from February 18, 2016 to April 3, 2016.
 Tweets from @BCTransit.
 ----------
 Full description:
