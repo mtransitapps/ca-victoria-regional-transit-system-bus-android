@@ -49,7 +49,6 @@
 3100,0,'Royal Oak Exch',31
 3200,0,'Cordova Bay',32
 3201,0,'Royal Oak Exch',32
-3300,0,'UVic',33
 3500,0,'Rdg',35
 3901,0,'Royal Oak / Camosun / Royal Rds',39
 3900,0,'UVic',39
@@ -86,8 +85,6 @@
 7200,0,'Swartz Bay',72
 7501,0,'Royal Oak / Downtown',75
 7500,0,'Saanichton',75
-7600,0,'Swartz Bay',76
-7601,0,'UVic',76
 8101,0,'Brentwood',81
 8100,0,'Swartz Bay',81
 8301,0,'Brentwood / Royal Oak Exch',83
