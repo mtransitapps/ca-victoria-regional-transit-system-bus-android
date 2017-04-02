@@ -31,11 +31,11 @@
 1900,0,'Hillside Mall',19
 2100,0,'Camosun',21
 2101,0,'Downtown',21
-2200,0,'Camosun',22
 2201,0,'Hillside Mall',22
+2200,0,'Vic General',22
 2401,0,'Admirals Walk',24
 2400,0,'Cedar Hl',24
-2501,0,'Admirals Walk',25
+2501,0,'Colwood Exch',25
 2500,0,'Maplewood',25
 2601,0,'Dockyard',26
 2600,0,'UVic',26
@@ -50,7 +50,7 @@
 3200,0,'Cordova Bay',32
 3201,0,'Royal Oak Exch',32
 3500,0,'Rdg',35
-3901,0,'Royal Rds',39
+3901,0,'Royal Roads',39
 3900,0,'UVic',39
 4700,0,'Downtown',47
 4701,0,'Goldstream Mdws',47
@@ -76,19 +76,17 @@
 6100,0,'Downtown',61
 6101,0,'Sooke',61
 6301,0,'Otter Pt',63
-6400,0,'E Sooke',64
+6400,0,'East Sooke',64
 7001,0,'Downtown',70
 7000,0,'Ferry Terminal',70
 7101,0,'Downtown',71
 7100,0,'Swartz Bay Ferry',71
 7201,0,'Downtown',72
-7200,0,'Swartz Bay',72
+7200,0,'Swartz Bay Ferry',72
 7501,0,'Downtown',75
 7500,0,'Saanichton Exch',75
-7600,0,'Ferry Terminal',76
-7601,0,'UVic',76
-8100,0,'Brentwood',81
-8101,0,'Swartz Bay',81
+8101,0,'Brentwood',81
+8100,0,'Swartz Bay Ferry',81
 8301,0,'Royal Oak Exch',83
 8300,0,'Sidney',83
 8501,0,'North Saanich',85

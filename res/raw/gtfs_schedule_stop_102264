@@ -1,3 +1,5 @@
-'aaVIC1701-1701SA-Saturday-02',8100,83500,0,'Swartz Bay Ferry',19500,0,'Swartz Bay Ferry',20000,0,'Swartz Bay Ferry',20000,0,'Swartz Bay Ferry',20000,0,'Swartz Bay Ferry',20000,0,'Swartz Bay Ferry',20000,0,'Swartz Bay Ferry'
-'aaVIC1701-1701SUN-Sunday-94',8100,83300,0,'Swartz Bay Ferry',20100,0,'Swartz Bay Ferry',20000,0,'Swartz Bay Ferry',20000,0,'Swartz Bay Ferry',20000,0,'Swartz Bay Ferry',20000,0,'Swartz Bay Ferry',20100,0,'Swartz Bay Ferry'
-'aaVIC1701-1701WK-Weekday-01',8100,62500,0,'Swartz Bay Ferry',9800,0,'Sidney Only',10600,0,'Swartz Bay Ferry',8200,0,'Sidney Only',12000,0,'Swartz Bay Ferry',7900,0,'Sidney Only',12200,0,'Swartz Bay Ferry',7900,0,'Sidney Only',12100,0,'Swartz Bay Ferry',7900,0,'Sidney Only',12100,0,'Swartz Bay Ferry',8900,0,'Sidney Only',10900,0,'Swartz Bay Ferry',8000,0,'Sidney Only',12000,0,'Swartz Bay Ferry'
+'abVIC1704-1704EASR-Saturday-19',8100,83500,,'',19500,,'',20000,,'',20000,,'',20000,,'',20000,,'',20000,,''
+'abVIC1704-1704SATR-Saturday-16',8100,83500,,'',19500,,'',20000,,'',20000,,'',20000,,'',20000,,'',20000,,''
+'abVIC1704-1704SUNR-Sunday-20',8100,83300,,'',20100,,'',20000,,'',20000,,'',20000,,'',20000,,'',20100,,''
+'abVIC1704-1704SUNR-Sunday-23',8100,83300,,'',20100,,'',20000,,'',20000,,'',20000,,'',20000,,'',20100,,''
+'abVIC1704-1704WK-Weekday-24',8100,62500,,'',9800,0,'Sidney Only',10600,,'',8200,0,'Sidney Only',12000,,'',7900,0,'Sidney Only',12200,,'',7900,0,'Sidney Only',12100,,'',7900,0,'Sidney Only',12100,,'',8900,0,'Sidney Only',10900,,'',8000,0,'Sidney Only',12000,,''
