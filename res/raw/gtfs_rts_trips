@@ -26,6 +26,9 @@
 1500,0,'UVic',15
 1600,0,'UVic',16
 1601,0,'Uptown',16
+1701,0,'Downtown',17
+1700,0,'UVic',17
+1900,0,'Hillside Mall',19
 2100,0,'Camosun',21
 2101,0,'Downtown',21
 2201,0,'Hillside Mall',22
@@ -49,6 +52,9 @@
 3500,0,'Rdg',35
 3901,0,'Royal Roads',39
 3900,0,'UVic',39
+4300,0,'Belmont Pk - Royal Roads',43
+4600,0,'Dockyard',46
+4601,0,'Westhills Exch',46
 4700,0,'Downtown',47
 4701,0,'Goldstream Mdws',47
 4800,0,'Downtown',48
@@ -82,6 +88,8 @@
 7200,0,'Swartz Bay Ferry',72
 7501,0,'Downtown',75
 7500,0,'Saanichton Exch',75
+7600,0,'Swartz Bay Ferry Non-Stop',76
+7601,0,'UVic',76
 8101,0,'Brentwood',81
 8100,0,'Swartz Bay Ferry',81
 8301,0,'Royal Oak Exch',83
