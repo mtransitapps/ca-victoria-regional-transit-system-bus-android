@@ -70,8 +70,8 @@
 5501,0,'Happy Vly',55
 5601,0,'Langford Exch',56
 5600,0,'Thetis Hts',56
+5701,0,'Langford Exch',57
 5700,0,'Thetis Hts',57
-5701,0,'Westhills Exch',57
 5801,0,'Goldstream Mdws',58
 5901,0,'Triangle Mtn',59
 6000,0,'Wishart',60
@@ -79,6 +79,8 @@
 6101,0,'Sooke',61
 6301,0,'Otter Pt',63
 6400,0,'East Sooke',64
+6500,0,'Downtown',65
+6501,0,'Sooke',65
 7001,0,'Downtown',70
 7000,0,'Swartz Bay Ferry',70
 7101,0,'Downtown',71
@@ -87,8 +89,6 @@
 7200,0,'Swartz Bay Ferry',72
 7501,0,'Downtown',75
 7500,0,'Saanichton Exch',75
-7600,0,'Swartz Bay Ferry',76
-7601,0,'UVic',76
 8101,0,'Brentwood',81
 8100,0,'Swartz Bay Ferry',81
 8201,0,'Brentwood',82
