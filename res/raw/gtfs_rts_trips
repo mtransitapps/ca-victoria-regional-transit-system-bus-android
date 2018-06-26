@@ -24,17 +24,13 @@
 1401,0,'Vic General',14
 1501,0,'Esquimalt',15
 1500,0,'UVic',15
-1600,0,'UVic',16
-1601,0,'Uptown',16
-1701,0,'Downtown',17
-1700,0,'UVic',17
 2101,0,'Downtown',21
 2100,0,'Interurban',21
 2201,0,'Hillside Mall',22
 2200,0,'Vic General',22
 2401,0,'Admirals Walk',24
 2400,0,'Cedar Hl',24
-2501,0,'Colwood Exch',25
+2501,0,'Admirals Walk',25
 2500,0,'Maplewood',25
 2601,0,'Dockyard',26
 2600,0,'UVic',26
@@ -91,7 +87,7 @@
 7500,0,'Saanichton Exch',75
 8101,0,'Brentwood',81
 8100,0,'Swartz Bay Ferry',81
-8201,0,'Brentwood',82
+8201,0,'Saanichton Exch',82
 8200,0,'Sidney',82
 8301,0,'Royal Oak Exch',83
 8300,0,'Sidney',83
