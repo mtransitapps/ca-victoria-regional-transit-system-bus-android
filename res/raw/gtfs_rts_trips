@@ -23,7 +23,7 @@
 1400,0,'UVic',14
 1401,0,'Vic General',14
 1501,0,'Esquimalt',15
-1500,0,'UVic',15
+1500,0,'UVic - Foul Bay Exp',15
 2101,0,'Downtown',21
 2100,0,'Interurban',21
 2201,0,'Hillside Mall',22
@@ -56,7 +56,7 @@
 4801,0,'Happy Vly',48
 5000,0,'Downtown',50
 5001,0,'Langford',50
-5101,0,'Langford',51
+5101,0,'Langford - McKenzie Exp',51
 5100,0,'UVic',51
 5201,0,'Bear Mtn',52
 5200,0,'Colwood Exch',52
@@ -67,7 +67,7 @@
 5601,0,'Langford Exch',56
 5600,0,'Thetis Hts',56
 5701,0,'Langford Exch',57
-5700,0,'Thetis Hts',57
+5700,0,'Theits Hts',57
 5801,0,'Goldstream Mdws',58
 5901,0,'Triangle Mtn',59
 6000,0,'Wishart',60
