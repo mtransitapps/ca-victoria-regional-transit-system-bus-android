@@ -1,4 +1,4 @@
-100,0,'Downtown',1
+102,0,'Downtown',1
 101,0,'South Oak Bay',1
 202,0,'James Bay',2
 201,0,'South Oak Bay',2
@@ -12,7 +12,7 @@
 701,0,'UVic',7
 802,0,'Interurban',8
 801,0,'Oak Bay',8
-900,0,'Royal Oak Exch',9
+902,0,'Royal Oak Exch',9
 901,0,'UVic',9
 1001,0,'James Bay',10
 1000,0,'Royal Jubilee',10
@@ -28,7 +28,6 @@
 1501,0,'UVic',15
 1601,0,'UVic',16
 1602,0,'Uptown',16
-1702,0,'Downtown',17
 1701,0,'UVic',17
 2100,0,'Interurban',21
 2101,0,'UVic',21
@@ -79,7 +78,7 @@
 6000,0,'Wishart',60
 6101,0,'Downtown',61
 6102,0,'Sooke',61
-6301,0,'Otter Pt',63
+6302,0,'Otter Pt',63
 6400,0,'Sooke',64
 6501,0,'Downtown',65
 6502,0,'Sooke',65
@@ -91,15 +90,13 @@
 7203,0,'Swartz Bay Ferry',72
 7504,0,'Downtown',75
 7503,0,'Saanichton Exch',75
-7603,0,'Swartz Bay Ferry',76
-7604,0,'UVic',76
 8104,0,'Brentwood',81
 8103,0,'Swartz Bay Ferry',81
 8204,0,'Brentwood',82
 8203,0,'Sidney',82
 8304,0,'Royal Oak Exch',83
 8303,0,'Sidney',83
-8501,0,'North Saanich',85
+8500,0,'North Saanich',85
 8704,0,'Dean Pk',87
 8703,0,'Sidney',87
 8804,0,'Airport',88
