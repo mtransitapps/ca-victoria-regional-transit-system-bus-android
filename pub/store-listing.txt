@@ -31,7 +31,7 @@ https://github.com/mtransitapps/ca-victoria-regional-transit-system-bus-android
 This app is not related with BC Transit, Victoria Regional Transit System and Victoria Regional Transit Commission.
 
 Permissions:
-- Other: required for real-time schedule predictions from nextride.nanaimo.bctransit.com and to read news from YouTube and Twitter
+- Other: required for real-time schedule predictions from nextride.victoria.bctransit.com and to read news from YouTube and Twitter
 ----------
 Application type: Applications
 ----------
