@@ -5,7 +5,7 @@ Victoria Regional Transit System buses for MonTransit.
 Schedule. Real time. News
 ----------
 What's new in this version?:
-Schedule from December 31, 2018 to April 29, 2019.
+Schedule from December 31, 2018 to May 7, 2019.
 Real-time predictions from NextRide.
 Tweets from @BCTransit.
 ----------
