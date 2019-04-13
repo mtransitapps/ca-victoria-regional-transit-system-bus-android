@@ -26,8 +26,6 @@
 1402,0,'Vic General',14
 1502,0,'Esquimalt',15
 1501,0,'UVic',15
-1601,0,'UVic',16
-1602,0,'Uptown',16
 1702,0,'Downtown',17
 1701,0,'UVic',17
 2100,0,'Interurban',21
@@ -80,6 +78,7 @@
 6101,0,'Downtown',61
 6102,0,'Sooke',61
 6302,0,'Otter Pt',63
+6401,0,'East Sooke',64
 6400,0,'Sooke',64
 6501,0,'Downtown',65
 6502,0,'Sooke',65
@@ -91,8 +90,6 @@
 7203,0,'Swartz Bay Ferry',72
 7504,0,'Downtown',75
 7503,0,'Saanichton Exch',75
-7603,0,'Swartz Bay Ferry',76
-7604,0,'UVic',76
 8104,0,'Brentwood',81
 8103,0,'Swartz Bay Ferry',81
 8204,0,'Brentwood',82
