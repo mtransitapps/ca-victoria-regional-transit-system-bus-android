@@ -26,8 +26,6 @@
 1402,0,'Vic General',14
 1502,0,'Esquimalt',15
 1501,0,'UVic',15
-1702,0,'Downtown',17
-1701,0,'UVic',17
 2100,0,'Interurban',21
 2101,0,'UVic',21
 2204,0,'Hillside Mall',22
@@ -101,3 +99,4 @@
 8703,0,'Sidney',87
 8804,0,'Airport',88
 8803,0,'Sidney',88
+1180201,0,'Shuttle Bus',11802
