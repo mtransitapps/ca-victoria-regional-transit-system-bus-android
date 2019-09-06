@@ -26,6 +26,10 @@
 1402,0,'Vic General',14
 1502,0,'Esquimalt',15
 1501,0,'UVic',15
+1601,0,'UVic',16
+1602,0,'Uptown',16
+1702,0,'Downtown',17
+1701,0,'UVic',17
 2101,0,'7 UVic',21
 2100,0,'Interurban',21
 2204,0,'Hillside Mall',22
@@ -88,6 +92,8 @@
 7203,0,'Swartz Bay Ferry',72
 7504,0,'Downtown',75
 7503,0,'Saanichton Exch',75
+7603,0,'Swartz Bay Ferry',76
+7604,0,'UVic',76
 8104,0,'Brentwood',81
 8103,0,'Swartz Bay Ferry',81
 8204,0,'Brentwood',82
@@ -99,4 +105,3 @@
 8703,0,'Sidney',87
 8804,0,'Airport',88
 8803,0,'Sidney',88
-99901,0,'Shuttle Bus',999
