@@ -56,8 +56,11 @@
 4300,0,'Belmont Pk',43
 4601,0,'Dockyard',46
 4602,0,'Westhills Exch',46
+4701,0,'Downtown',47
 4702,0,'Goldstream Mdws',47
+4801,0,'Downtown',48
 4802,0,'Happy Vly',48
+5001,0,'Downtown',50
 5002,0,'Langford',50
 5102,0,'Langford',51
 5101,0,'UVic',51
@@ -79,6 +82,7 @@
 6302,0,'Otter Pt',63
 6401,0,'East Sooke',64
 6400,0,'Sooke',64
+6501,0,'Downtown',65
 6502,0,'Sooke',65
 7004,0,'Downtown',70
 7003,0,'Swartz Bay Ferry',70
