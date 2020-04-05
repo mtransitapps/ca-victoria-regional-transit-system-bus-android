@@ -6,102 +6,102 @@
 301,0,'Royal Jubilee',3
 402,0,'Downtown',4
 401,0,'UVic',4
-604,0,'Downtown',6
-603,0,'Royal Oak Exch',6
-700,0,'Downtown',7
-701,0,'UVic',7
-802,0,'Interurban',8
-801,0,'Oak Bay',8
-902,0,'Royal Oak Exch',9
-901,0,'UVic',9
-1001,0,'James Bay',10
-1000,0,'Royal Jubilee',10
-1102,0,'Tillicum Mall',11
+504,0,'Downtown',5
+503,0,'Royal Oak Exch',5
+600,0,'Downtown',6
+601,0,'UVic',6
+702,0,'Interurban',7
+701,0,'Oak Bay',7
+802,0,'Royal Oak Exch',8
+801,0,'UVic',8
+901,0,'James Bay',9
+900,0,'Royal Jubilee',9
+1002,0,'Tillicum Mall',10
+1001,0,'UVic',10
 1101,0,'UVic',11
-1201,0,'UVic',12
-1202,0,'University Hgts',12
-1301,0,'Ten Mile Pt',13
-1302,0,'UVic',13
+1102,0,'University Hgts',11
+1201,0,'Ten Mile Pt',12
+1202,0,'UVic',12
+1301,0,'UVic',13
+1302,0,'Vic General',13
+1402,0,'Esquimalt',14
 1401,0,'UVic',14
-1402,0,'Vic General',14
-1502,0,'Esquimalt',15
 1501,0,'UVic',15
+1502,0,'Uptown',15
+1602,0,'Downtown',16
 1601,0,'UVic',16
-1602,0,'Uptown',16
-1702,0,'Downtown',17
-1701,0,'UVic',17
-2101,0,'7 UVic',21
-2100,0,'Interurban',21
-2204,0,'Hillside Mall',22
-2203,0,'Vic General',22
-2402,0,'Admirals Walk',24
-2401,0,'Cedar Hl',24
-2502,0,'Admirals Walk',25
-2501,0,'Maplewood',25
-2602,0,'Dockyard',26
-2601,0,'UVic',26
-2704,0,'Downtown',27
-2703,0,'Gordon Head',27
-2804,0,'Downtown',28
-2803,0,'Majestic',28
-3004,0,'Downtown',30
-3003,0,'Royal Oak Exch',30
-3104,0,'Downtown',31
-3103,0,'Royal Oak Exch',31
-3203,0,'Cordova Bay',32
-3204,0,'Royal Oak Exch',32
-3500,0,'Rdg',35
-3901,0,'UVic',39
-3902,0,'Westhills Exch',39
-4300,0,'Belmont Pk',43
-4601,0,'Dockyard',46
-4602,0,'Westhills Exch',46
+1701,0,'7 UVic',17
+1700,0,'Interurban',17
+1804,0,'Hillside Mall',18
+1803,0,'Vic General',18
+1902,0,'Admirals Walk',19
+1901,0,'Cedar Hl',19
+2002,0,'Admirals Walk',20
+2001,0,'Maplewood',20
+2102,0,'Dockyard',21
+2101,0,'UVic',21
+2204,0,'Downtown',22
+2203,0,'Gordon Head',22
+2304,0,'Downtown',23
+2303,0,'Majestic',23
+2404,0,'Downtown',24
+2403,0,'Royal Oak Exch',24
+2504,0,'Downtown',25
+2503,0,'Royal Oak Exch',25
+2603,0,'Cordova Bay',26
+2604,0,'Royal Oak Exch',26
+2700,0,'Rdg',27
+2801,0,'UVic',28
+2802,0,'Westhills Exch',28
+2900,0,'Belmont Pk',29
+3001,0,'Dockyard',30
+3002,0,'Westhills Exch',30
+3101,0,'Downtown',31
+3102,0,'Goldstream Mdws',31
+3201,0,'Downtown',32
+3202,0,'Happy Vly',32
+3301,0,'Downtown',33
+3302,0,'Langford',33
+3402,0,'Langford',34
+3401,0,'UVic',34
+3502,0,'Bear Mtn',35
+3501,0,'Colwood Exch',35
+3600,0,'Colwood Exch',36
+3601,0,'Langford Exch',36
+3700,0,'Metchosin',37
+3801,0,'Happy Vly',38
+3904,0,'Langford Exch',39
+3903,0,'Thetis Hts',39
+4004,0,'Langford Exch',40
+4003,0,'Thetis Hts',40
+4101,0,'Goldstream Mdws',41
+4201,0,'Triangle Mtn',42
+4300,0,'Wishart',43
+4401,0,'Downtown',44
+4402,0,'Sooke',44
+4502,0,'Otter Pt',45
+4601,0,'East Sooke',46
+4600,0,'Sooke',46
 4701,0,'Downtown',47
-4702,0,'Goldstream Mdws',47
-4801,0,'Downtown',48
-4802,0,'Happy Vly',48
-5001,0,'Downtown',50
-5002,0,'Langford',50
-5102,0,'Langford',51
-5101,0,'UVic',51
-5202,0,'Bear Mtn',52
-5201,0,'Colwood Exch',52
-5300,0,'Colwood Exch',53
-5301,0,'Langford Exch',53
-5400,0,'Metchosin',54
-5501,0,'Happy Vly',55
-5604,0,'Langford Exch',56
-5603,0,'Thetis Hts',56
-5704,0,'Langford Exch',57
-5703,0,'Thetis Hts',57
-5801,0,'Goldstream Mdws',58
-5901,0,'Triangle Mtn',59
-6000,0,'Wishart',60
-6101,0,'Downtown',61
-6102,0,'Sooke',61
-6302,0,'Otter Pt',63
-6401,0,'East Sooke',64
-6400,0,'Sooke',64
-6501,0,'Downtown',65
-6502,0,'Sooke',65
-7004,0,'Downtown',70
-7003,0,'Swartz Bay Ferry',70
-7104,0,'Downtown',71
-7103,0,'Swartz Bay Ferry',71
-7204,0,'Downtown',72
-7203,0,'Swartz Bay Ferry',72
-7504,0,'Downtown',75
-7503,0,'Saanichton Exch',75
-7603,0,'Swartz Bay Ferry',76
-7604,0,'UVic',76
-8104,0,'Brentwood',81
-8103,0,'Swartz Bay Ferry',81
-8204,0,'Brentwood',82
-8203,0,'Sidney',82
-8304,0,'Royal Oak Exch',83
-8303,0,'Sidney',83
-8500,0,'North Saanich',85
-8704,0,'Saanichton',87
-8703,0,'Sidney',87
-8804,0,'Airport',88
-8803,0,'Sidney',88
+4702,0,'Sooke',47
+4804,0,'Downtown',48
+4803,0,'Swartz Bay Ferry',48
+4904,0,'Downtown',49
+4903,0,'Swartz Bay Ferry',49
+5004,0,'Downtown',50
+5003,0,'Swartz Bay Ferry',50
+5104,0,'Downtown',51
+5103,0,'Saanichton Exch',51
+5203,0,'Swartz Bay Ferry',52
+5204,0,'UVic',52
+5304,0,'Brentwood',53
+5303,0,'Swartz Bay Ferry',53
+5404,0,'Brentwood',54
+5403,0,'Sidney',54
+5504,0,'Royal Oak Exch',55
+5503,0,'Sidney',55
+5600,0,'North Saanich',56
+5704,0,'Saanichton',57
+5703,0,'Sidney',57
+5804,0,'Airport',58
+5803,0,'Sidney',58
