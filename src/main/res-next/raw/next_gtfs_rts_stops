@@ -602,7 +602,6 @@
 74974,'100645','Saanich @ Darwin',48.45717,-123.369273
 74975,'100646','Richmond @ Forrester',48.444061,-123.327092
 74976,'100647','Quadra @ Tattersall Dr',48.45786,-123.360034
-74977,'100648','Tillicum @ Burnside - Tillicum Mall',48.453344,-123.394378
 74978,'100649','Obed @ Bodega',48.451295,-123.400621
 74979,'100650','Blanshard @ Ravine - Uptown',48.457012,-123.376022
 74980,'100651','Canteen @ Esquimalt',48.428904,-123.424622
@@ -615,14 +614,12 @@
 74987,'100658','Gorge @ Inez',48.44914,-123.406187
 74988,'100659','Foul Bay @ Townley',48.440056,-123.322168
 74989,'100661','Maplewood @ Derby',48.455647,-123.350825
-74990,'100662','Burnside @ Tillicum - Tillicum Mall',48.454615,-123.39358
 74991,'100663','Gorge @ Inez',48.449239,-123.406399
 74992,'100664','Cadboro Bay @ Eastdowne',48.433573,-123.317098
 74993,'100665','Foul Bay @ Townley',48.440525,-123.321932
 74994,'100666','Saanich @ Leslie',48.458127,-123.368795
 74995,'100668','Obed @ Bodega',48.451955,-123.401623
 74996,'100669','Monterey @ Woodlawn',48.428505,-123.313928
-74998,'100671','Tillicum Mall / G.R. Pearkes Rec Ctr',48.454294,-123.396397
 74999,'100673','Cadboro Bay @ Eastdowne',48.433461,-123.315914
 75000,'100674','Monterey @ Woodlawn',48.428489,-123.314129
 75001,'100675','Saanich @ Swan',48.458578,-123.368866
@@ -2285,7 +2282,10 @@
 76821,'100136','Metchosin @ Cotlow',48.414458,-123.483329
 76837,'100154','Metchosin @ Kenning',48.413938,-123.483576
 77295,'100628','Tillicum @ Maddock / Arena',48.452226,-123.395274
-77335,'100670','Burnside @ Tillicum - Tillicum Mall',48.455164,-123.393527
+77315,'100648','Tillicum @ Burnside - Tillicum Ctr',48.453344,-123.394378
+77328,'100662','Burnside @ Tillicum - Tillicum Ctr',48.454615,-123.39358
+77335,'100670','Burnside @ Tillicum - Tillicum Ctr',48.455164,-123.393527
+77336,'100671','Tillicum Ctr / G.R. Pearkes Rec Ctr',48.454294,-123.396397
 77378,'100716','Burnside Rd @ Hwy 1 Ramp',48.456898,-123.394602
 77404,'100743','Burnside @ Interurban',48.458213,-123.394954
 77458,'100797','Interurban @ Dumeresq',48.462358,-123.395358
