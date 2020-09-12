@@ -1,97 +1,103 @@
-177602,0,'Downtown',1776
-177601,0,'South Oak Bay',1776
-177702,0,'James Bay',1777
-177701,0,'South Oak Bay',1777
-177800,0,'James Bay',1778
-177801,0,'Royal Jubilee',1778
-177902,0,'Downtown',1779
-177901,0,'UVic',1779
-178004,0,'Downtown',1780
-178003,0,'Royal Oak Exch',1780
-178100,0,'Downtown',1781
-178101,0,'UVic',1781
-178201,0,'Oak Bay',1782
-178202,0,'Tillicum Ctr',1782
-178301,0,'James Bay',1783
-178300,0,'Royal Jubilee',1783
-178402,0,'Tillicum Ctr',1784
-178401,0,'UVic',1784
-178501,0,'UVic',1785
-178502,0,'University Hgts',1785
-178601,0,'Ten Mile Pt',1786
-178602,0,'UVic',1786
-178701,0,'UVic',1787
-178702,0,'Vic General',1787
-178802,0,'Esquimalt',1788
-178801,0,'UVic',1788
-178901,0,'7 UVic',1789
-178900,0,'Interurban',1789
-179004,0,'Hillside Ctr',1790
-179003,0,'Vic General',1790
-179102,0,'Admirals Walk',1791
-179101,0,'Cedar Hl',1791
-179202,0,'Admirals Walk',1792
-179201,0,'Maplewood',1792
-179302,0,'Dockyard',1793
-179301,0,'UVic',1793
-179404,0,'Downtown',1794
-179403,0,'Gordon Head',1794
-179504,0,'Downtown',1795
-179503,0,'Majestic',1795
-179604,0,'Downtown',1796
-179603,0,'Royal Oak Exch',1796
-179704,0,'Downtown',1797
-179703,0,'Royal Oak Exch',1797
-179803,0,'Cordova Bay',1798
-179804,0,'Royal Oak Exch',1798
-179900,0,'Rdg',1799
-180001,0,'UVic',1800
-180002,0,'Westhills Exch',1800
-180100,0,'Belmont Pk',1801
-180201,0,'Dockyard',1802
-180202,0,'Westhills Exch',1802
-180301,0,'Downtown',1803
-180302,0,'Goldstream Mdws',1803
-180401,0,'Downtown',1804
-180402,0,'Happy Vly',1804
-180501,0,'Downtown',1805
-180502,0,'Langford',1805
-180602,0,'Bear Mtn',1806
-180601,0,'Colwood Exch',1806
-180700,0,'Colwood Exch',1807
-180701,0,'Langford Exch',1807
-180800,0,'Metchosin',1808
-180901,0,'Happy Vly',1809
-181004,0,'Langford Exch',1810
-181003,0,'Thetis Hts',1810
-181104,0,'Langford Exch',1811
-181103,0,'Thetis Hts',1811
-181201,0,'Goldstream Mdws',1812
-181301,0,'Triangle Mtn',1813
-181400,0,'Wishart',1814
-181501,0,'Downtown',1815
-181502,0,'Sooke',1815
-181602,0,'Otter Pt',1816
-181701,0,'East Sooke',1817
-181700,0,'Sooke',1817
-181801,0,'Downtown',1818
-181802,0,'Sooke',1818
-181904,0,'Downtown',1819
-181903,0,'Swartz Bay Ferry',1819
-182004,0,'Downtown',1820
-182003,0,'Swartz Bay Ferry',1820
-182104,0,'Downtown',1821
-182103,0,'Swartz Bay Ferry',1821
-182204,0,'Downtown',1822
-182203,0,'Saanichton Exch',1822
-182304,0,'Brentwood',1823
-182303,0,'Swartz Bay Ferry',1823
-182404,0,'Brentwood',1824
-182403,0,'Sidney',1824
-182504,0,'Royal Oak Exch',1825
-182503,0,'Sidney',1825
-182600,0,'North Saanich',1826
-182704,0,'Saanichton',1827
-182703,0,'Sidney',1827
-182804,0,'Airport',1828
-182803,0,'Sidney',1828
+183002,0,'Downtown',1830
+183001,0,'South Oak Bay',1830
+183102,0,'James Bay',1831
+183101,0,'South Oak Bay',1831
+183200,0,'James Bay',1832
+183201,0,'Royal Jubilee',1832
+183302,0,'Downtown',1833
+183301,0,'UVic',1833
+183404,0,'Downtown',1834
+183403,0,'Royal Oak Exch',1834
+183500,0,'Downtown',1835
+183501,0,'UVic',1835
+183602,0,'Interurban',1836
+183601,0,'Oak Bay',1836
+183702,0,'Royal Oak Exch',1837
+183701,0,'UVic',1837
+183801,0,'James Bay',1838
+183800,0,'Royal Jubilee',1838
+183902,0,'Tillicum Ctr',1839
+183901,0,'UVic',1839
+184001,0,'UVic',1840
+184002,0,'University Hgts',1840
+184101,0,'Ten Mile Pt',1841
+184102,0,'UVic',1841
+184201,0,'UVic',1842
+184202,0,'Vic General',1842
+184302,0,'Esquimalt',1843
+184301,0,'UVic',1843
+184402,0,'Downtown',1844
+184401,0,'UVic',1844
+184501,0,'7 UVic',1845
+184500,0,'Interurban',1845
+184604,0,'Hillside Ctr',1846
+184603,0,'Vic General',1846
+184702,0,'Admirals Walk',1847
+184701,0,'Cedar Hl',1847
+184802,0,'Admirals Walk',1848
+184801,0,'Maplewood',1848
+184902,0,'Dockyard',1849
+184901,0,'UVic',1849
+185004,0,'Downtown',1850
+185003,0,'Gordon Head',1850
+185104,0,'Downtown',1851
+185103,0,'Majestic',1851
+185204,0,'Downtown',1852
+185203,0,'Royal Oak Exch',1852
+185304,0,'Downtown',1853
+185303,0,'Royal Oak Exch',1853
+185403,0,'Cordova Bay',1854
+185404,0,'Royal Oak Exch',1854
+185500,0,'Rdg',1855
+185601,0,'UVic',1856
+185602,0,'Westhills Exch',1856
+185700,0,'Belmont Pk',1857
+185801,0,'Dockyard',1858
+185802,0,'Westhills Exch',1858
+185901,0,'Downtown',1859
+185902,0,'Goldstream Mdws',1859
+186001,0,'Downtown',1860
+186002,0,'Happy Vly',1860
+186101,0,'Downtown',1861
+186102,0,'Langford',1861
+186202,0,'Langford',1862
+186201,0,'UVic',1862
+186302,0,'Bear Mtn',1863
+186301,0,'Colwood Exch',1863
+186400,0,'Colwood Exch',1864
+186401,0,'Langford Exch',1864
+186500,0,'Metchosin',1865
+186601,0,'Happy Vly',1866
+186704,0,'Langford Exch',1867
+186703,0,'Thetis Hts',1867
+186804,0,'Langford Exch',1868
+186803,0,'Thetis Hts',1868
+186901,0,'Goldstream Mdws',1869
+187001,0,'Triangle Mtn',1870
+187100,0,'Wishart',1871
+187201,0,'Downtown',1872
+187202,0,'Sooke',1872
+187302,0,'Otter Pt',1873
+187401,0,'East Sooke',1874
+187400,0,'Sooke',1874
+187501,0,'Downtown',1875
+187502,0,'Sooke',1875
+187604,0,'Downtown',1876
+187603,0,'Swartz Bay Ferry',1876
+187704,0,'Downtown',1877
+187703,0,'Swartz Bay Ferry',1877
+187804,0,'Downtown',1878
+187803,0,'Swartz Bay Ferry',1878
+187904,0,'Downtown',1879
+187903,0,'Saanichton Exch',1879
+188004,0,'Brentwood',1880
+188003,0,'Swartz Bay Ferry',1880
+188104,0,'Brentwood',1881
+188103,0,'Sidney',1881
+188204,0,'Royal Oak Exch',1882
+188203,0,'Sidney',1882
+188300,0,'North Saanich',1883
+188404,0,'Saanichton',1884
+188403,0,'Sidney',1884
+188504,0,'Airport',1885
+188503,0,'Sidney',1885
