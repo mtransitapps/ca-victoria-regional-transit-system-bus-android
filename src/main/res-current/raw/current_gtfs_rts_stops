@@ -890,7 +890,7 @@
 84687,'100945','Glanford @ O''Connell',48.470228,-123.38902
 84688,'100946','Superior @ Montreal',48.421153,-123.379469
 84689,'100947','Lansdowne @ Ripon',48.444416,-123.301173
-84690,'100948','Cedar Hl @ Garnet - Cedar Hl School',48.466661,-123.335928
+84690,'100948','Cedar Hl @ Garnet - Cedar Hl S',48.466661,-123.335928
 84691,'100949','Burnside @ Heritage',48.463592,-123.412508
 84692,'100950','Henderson @ Frederick Norris',48.457786,-123.315866
 84693,'100951','Henderson @ Frederick Norris',48.457909,-123.315693
@@ -1046,7 +1046,7 @@
 84845,'101107','McKenzie @ Vikes Way',48.468957,-123.312247
 84846,'101108','Feltham @ Lambrick',48.475965,-123.328023
 84847,'101109','Sinclair @ Clarndon',48.465478,-123.305404
-84848,'101110','Laval, 1870 Block - Mt Doug School',48.472183,-123.317423
+84848,'101110','Laval, 1870 Block - Mt Doug S',48.472183,-123.317423
 84849,'101113','Laval @ Gordon Head',48.47231,-123.31707
 84850,'101114','Sinclair @ Haro',48.464042,-123.302865
 84851,'101116','College @ Thetis',48.436715,-123.461226
@@ -1553,7 +1553,7 @@
 85352,'101638','Treanor @ Belair',48.464546,-123.498805
 85353,'101639','Goldstream @ Matson',48.450888,-123.507543
 85354,'101640','Jacklin @ Terlane - Belmont Mkt',48.438638,-123.512541
-85355,'101641','Wesley @ Strangcrest - Claremont School',48.515971,-123.374233
+85355,'101641','Wesley @ Strangcrest - Claremont S',48.515971,-123.374233
 85356,'101642','Desmond @ Wendey',48.41398,-123.514722
 85357,'101643','Sunheights @ Batting',48.418936,-123.514863
 85358,'101644','Duke Rd W @ Clf',48.391512,-123.508576
@@ -1583,6 +1583,7 @@
 85382,'101669','Latoria @ Desmond',48.411569,-123.517064
 85383,'101670','Florence Lk @ Citation',48.455904,-123.50785
 85384,'101671','Millstream @ Hoylake',48.465892,-123.501068
+85385,'101672','Sooke Rd @ Jacklin',48.434042,-123.516568
 85386,'101673','Goldstream @ Spencer',48.450369,-123.510886
 85387,'101674','Florence Lk @ Citation',48.455591,-123.507988
 85388,'101675','Jacklin @ Cecil Blogg',48.43061,-123.517431
@@ -1888,8 +1889,8 @@
 85688,'101985','W Saanich @ Wallace',48.576243,-123.446543
 85689,'101986','Wallace @ Stelly''s Cross Rd',48.579873,-123.425996
 85690,'101987','Sooke Rd, 4960 Block',48.39808,-123.614855
-85691,'101988','Stelly''s Cross Rd @ Stelly''s Sec School',48.579664,-123.431969
-85692,'101989','Stelly''s Cross Rd @ Stelly''s Sec School',48.57979,-123.432762
+85691,'101988','Stelly''s Cross Rd @ Stelly''s Sec S',48.579664,-123.431969
+85692,'101989','Stelly''s Cross Rd @ Stelly''s Sec S',48.57979,-123.432762
 85693,'101990','Wallace @ White',48.584441,-123.4238
 85694,'101991','Brentwood Dr @ Sluggett',48.573677,-123.462191
 85695,'101992','Stelly''s Cross Rd @ Saanich Fairgrounds',48.579658,-123.436883
