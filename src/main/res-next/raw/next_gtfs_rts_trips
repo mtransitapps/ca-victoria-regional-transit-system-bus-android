@@ -1,7 +1,7 @@
 6100,0,'Downtown',61
 6101,0,'South Oak Bay',61
 6200,0,'James Bay',62
-6201,0,'South Oak Bay / Willows',62
+6201,0,'South Oak Bay',62
 6300,0,'James Bay',63
 6301,0,'Royal Jubilee',63
 6400,0,'Downtown',64
@@ -78,7 +78,7 @@
 10401,0,'Downtown',104
 10400,0,'Sooke',104
 10500,0,'Otter Pt',105
-10601,0,'East Sooke',106
+10601,0,'Langford Exch',106
 10600,0,'Sooke',106
 10701,0,'Downtown',107
 10700,0,'Sooke',107
@@ -101,3 +101,5 @@
 11700,0,'Sidney',117
 11801,0,'Airport',118
 11800,0,'Sidney',118
+257100,0,'James Bay',2571
+257101,0,'Willows',2571
