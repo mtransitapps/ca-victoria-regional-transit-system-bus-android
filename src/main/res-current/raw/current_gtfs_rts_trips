@@ -58,8 +58,6 @@
 9100,0,'Goldstream Mdws',91
 9201,0,'Downtown',92
 9200,0,'Happy Vly',92
-9301,0,'Downtown',93
-9300,0,'Langford',93
 9400,0,'Langford',94
 9401,0,'UVic',94
 9500,0,'Bear Mtn',95
@@ -103,3 +101,5 @@
 11800,0,'Sidney',118
 257100,0,'James Bay',2571
 257101,0,'Willows',2571
+343400,0,'Langford Exch',3434
+343401,0,'Legislature Term',3434
