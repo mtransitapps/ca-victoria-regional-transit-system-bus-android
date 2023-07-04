@@ -26,8 +26,6 @@
 7300,0,'Vic General',73
 7400,0,'Esquimalt',74
 7401,0,'UVic',74
-7600,0,'Downtown',76
-7601,0,'UVic',76
 7701,0,'Downtown',77
 7700,0,'Interurban',77
 7801,0,'Hillside Ctr',78
@@ -80,7 +78,7 @@
 10600,0,'Sooke',106
 10701,0,'Downtown',107
 10700,0,'Sooke',107
-10801,0,'Downtown',108
+10801,0,'Downtown / X',108
 10800,0,'Swartz Bay Ferry',108
 10901,0,'Downtown',109
 10900,0,'Swartz Bay Ferry',109
@@ -90,8 +88,8 @@
 11100,0,'Saanichton Exch',111
 11301,0,'Brentwood',113
 11300,0,'Swartz Bay Ferry',113
+11401,0,'Saanichton Exch',114
 11400,0,'Sidney',114
-11401,0,'To Brentwood',114
 11501,0,'Royal Oak Exch',115
 11500,0,'Sidney',115
 11600,0,'North Saanich',116
