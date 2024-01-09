@@ -64,15 +64,18 @@
 9501,0,'Colwood Exch',95
 9601,0,'Downtown',96
 9600,0,'Langford Exch',96
-9700,0,'Metchosin',97
-9801,0,'Happy Vly',98
-9901,0,'Langford Exch',99
-9900,0,'Thetis Hts',99
+9700,0,'Langford Exch',97
+9701,0,'William Head',97
+9800,0,'Langford Exch',98
+9801,0,'William Head',98
 10001,0,'Langford Exch',100
-10000,0,'Thetis Hts',100
+10000,0,'Thetis Hgts',100
 10101,0,'Goldstream Mdws',101
-10201,0,'Triangle Mtn',102
-10300,0,'Wishart',103
+10100,0,'Langford Exch',101
+10200,0,'Langford Exch',102
+10201,0,'Royal Bay Exch',102
+10300,0,'Langford Exch',103
+10301,0,'Royal Bay Exch',103
 10401,0,'Downtown',104
 10400,0,'Sooke',104
 10500,0,'Otter Pt',105
@@ -103,3 +106,5 @@
 257101,0,'Willows',2571
 343400,0,'Langford Exch',3434
 343401,0,'Legislature Exch',3434
+381501,0,'Langford Exch',3815
+381500,0,'Skirt Mtn',3815
