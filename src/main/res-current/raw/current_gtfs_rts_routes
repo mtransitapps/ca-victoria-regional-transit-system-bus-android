@@ -1,57 +1,54 @@
-61,'1','South Oak Bay / Downtown','004b8d',1723,3
-62,'2','James Bay / South Oak Bay','8cc63f',1724,3
-63,'3','James Bay / Royal Jubilee','f37421',1725,3
-64,'4','UVic / Downtown','00aeef',1726,3
-65,'6','Royal Oak Exch / Downtown','fcaf17',1727,3
-66,'7','UVic / Downtown','00aa47',1728,3
-67,'8','Interurban / Tillicum Ctr / Oak Bay','ed1d8f',1729,3
-68,'9','Royal Oak / UVic','8177b7',1730,3
-69,'10','James Bay / Royal Jubilee','49176b',1731,3
-70,'11','Tillicum Ctr / UVic','b2bb1e',1753,3
-71,'12','University Hts / UVic','4f6f19',1754,3
-72,'13','Ten Mile Pt / UVic','77af99',1755,3
-73,'14','Vic General / UVic','e270ab',1756,3
-74,'15','Esquimalt / UVic','5d87a1',1757,3
-76,'17','Cedar Hl','f49a5d',1759,3
-77,'21','Interurban / Downtown','b3aa7e',1760,3
-78,'22','Vic General / Hillside Ctr','bf83b9',1761,3
-79,'24','Cedar Hl / Tillicum Ctr','a54499',1762,3
-80,'25','Maplewood / Tillicum Ctr','00b5ad',1784,3
-81,'26','Dockyard / UVic','b06e0e',1785,3
-82,'27','Gordon Head / Downtown','8e0c3a',1786,3
-83,'28','Majestic / Downtown','e31937',1787,3
-84,'30','Royal Oak Exch / Downtown','ac5c3b',1788,3
-85,'31','Royal Oak Exch / Downtown','875d9f',1789,3
-86,'32','Cordova Bay / Royal Oak Exch','7c3f25',1790,3
-87,'35','Rdg','91278f',1791,3
-88,'39','Westhills / Interurban / Royal Oak / UVic','ffc20e',1792,3
-89,'43','Royal Roads Via Belmont Pk','004b8d',1793,3
-90,'46','Dockyard / Westhills','8cc63f',1815,3
-91,'47','Goldstream Mdws / Downtown','f37421',1816,3
-92,'48','Happy Vly / Downtown','00aeef',1817,3
-94,'51','Langford / UVic','00aa47',1819,3
-95,'52','Colwood Exch / Bear Mtn','ed1d8f',1820,3
-96,'53','Vic General / Langford Exch','8177b7',1821,3
-97,'54','Metchosin / Langford Exch','49176b',1822,3
-98,'55','Happy Vly / Langford Exch','b2bb1e',1823,3
-100,'57','Thetis Hts / Langford Exch','77af99',48625,3
-101,'58','Goldstream Mdws / Langford Exch','e270ab',48626,3
-102,'59','Triangle Mtn / Langford Exch','5d87a1',48627,3
-103,'60','Wishart / Langford Exch','0073ae',48628,3
-104,'61','Sooke / Langford / Downtown','f49a5d',48629,3
-105,'63','Otter Pt','b3aa7e',48630,3
-106,'64','Langford Exch / Sooke Via E Sooke And Beecher','bf83b9',48631,3
-107,'65','Sooke / Downtown Via Westhills','a54499',48632,3
-108,'70','Swartz Bay / Downtown','00b5ad',48633,3
-109,'71','Swartz Bay / Downtown','b06e0e',48634,3
-110,'72','Swartz Bay / Downtown','8e0c3a',48656,3
-111,'75','Saanichton / Royal Oak / Downtown','e31937',48657,3
-113,'81','Brentwood / Saanichton / Sidney / Swartz Bay','875d9f',48659,3
-114,'82','Sidney / Saanichton Via Stautw','7c3f25',48660,3
-115,'83','Sidney / Brentwood / Royal Oak','91278f',48661,3
-116,'85','North Saanich','ffc20e',48662,3
-117,'87','Saanichton / Sidney Via Dean Pk','004b8d',48663,3
-118,'88','Airport / Sidney','8cc63f',48664,3
-2571,'5','James Bay / Willows','8177b7',1542237,3
-3434,'95','Langford / Downtown RAPIDBUS','fcaf17',1570946,3
-3815,'49','Skirt Mtn / Langford Exch','4f6f19',1574729,3
+61,'1','South Oak Bay / Downtown','004B8D',1723,3
+62,'2','James Bay / South Oak Bay','8CC63F',1724,3
+63,'3','James Bay / Royal Jubilee','F37421',1725,3
+64,'4','UVic / Downtown','00AEEF',1726,3
+65,'6','Royal Oak Exch / Downtown','FCAF17',1727,3
+66,'7','UVic / Downtown','00AA47',1728,3
+67,'8','Interurban / Tillicum Ctr / Oak Bay','ED1D8F',1729,3
+68,'9','Royal Oak / UVic','8177B7',1730,3
+69,'10','James Bay / Royal Jubilee','49176B',1731,3
+70,'11','Tillicum Ctr / UVic','B2BB1E',1753,3
+71,'12','University Hts / UVic','4F6F19',1754,3
+72,'13','Ten Mile Pt / UVic','77AF99',1755,3
+73,'14','Vic General / UVic','E270AB',1756,3
+74,'15','Esquimalt / UVic','5D87A1',1757,3
+76,'17','Cedar Hl','F49A5D',1759,3
+77,'21','Interurban / Downtown','B3AA7E',1760,3
+78,'22','Vic General / Hillside Ctr','BF83B9',1761,3
+79,'24','Cedar Hl / Tillicum Ctr','A54499',1762,3
+80,'25','Maplewood / Tillicum Ctr','00B5AD',1784,3
+81,'26','Dockyard / UVic','B06E0E',1785,3
+82,'27','Gordon Head / Downtown','8E0C3A',1786,3
+83,'28','Majestic / Downtown','E31937',1787,3
+84,'30','Royal Oak Exch / Downtown','AC5C3B',1788,3
+85,'31','Royal Oak Exch / Downtown','875D9F',1789,3
+86,'32','Cordova Bay / Royal Oak Exch','7C3F25',1790,3
+88,'39','Westhills / Interurban / Royal Oak / UVic','FFC20E',1792,3
+89,'43','Royal Roads Via Belmont Pk','004B8D',1793,3
+90,'46','Dockyard / Westhills','8CC63F',1815,3
+91,'47','Goldstream Mdws / Downtown','F37421',1816,3
+92,'48','Happy Vly / Downtown','00AEEF',1817,3
+94,'51','Langford / UVic','00AA47',1819,3
+95,'52','Colwood Exch / Bear Mtn','ED1D8F',1820,3
+96,'53','Vic General / Langford Exch','8177B7',1821,3
+97,'54','Metchosin / Langford Exch','49176B',1822,3
+98,'55','Happy Vly / Langford Exch','B2BB1E',1823,3
+100,'57','Thetis Hts / Langford Exch','77AF99',48625,3
+101,'58','Goldstream Mdws / Langford Exch','E270AB',48626,3
+102,'59','Triangle Mtn / Langford Exch','5D87A1',48627,3
+103,'60','Wishart / Langford Exch','0073AE',48628,3
+104,'61','Sooke / Langford / Downtown','F49A5D',48629,3
+105,'63','Otter Pt','B3AA7E',48630,3
+106,'64','Langford Exch / Sooke Via E Sooke And Beecher','BF83B9',48631,3
+107,'65','Sooke / Downtown Via Westhills','A54499',48632,3
+108,'70','Swartz Bay / Downtown','00B5AD',48633,3
+109,'71','Swartz Bay / Downtown','B06E0E',48634,3
+110,'72','Swartz Bay / Downtown','8E0C3A',48656,3
+111,'75','Saanichton / Royal Oak / Downtown','E31937',48657,3
+113,'81','Brentwood / Saanichton / Sidney / Swartz Bay','875D9F',48659,3
+114,'82','Sidney / Saanichton Via Stautw','7C3F25',48660,3
+115,'83','Sidney / Brentwood / Royal Oak','91278F',48661,3
+118,'88','Airport / Sidney','8CC63F',48664,3
+2571,'5','James Bay / Willows','8177B7',1542237,3
+3434,'95','Langford / Downtown RAPIDBUS','FCAF17',1570946,3
+3815,'49','Skirt Mtn / Langford Exch','4F6F19',1574729,3
