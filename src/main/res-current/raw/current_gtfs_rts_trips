@@ -48,6 +48,7 @@
 8501,0,'Royal Oak Exch',85
 8601,0,'Cordova Bay',86
 8600,0,'Downtown',86
+8701,0,'Rdg',87
 8800,0,'UVic',88
 8801,0,'Westhills Exch',88
 8901,0,'Belmont Pk',89
@@ -96,6 +97,9 @@
 11401,0,'Sidney',114
 11500,0,'Royal Oak Exch',115
 11501,0,'Sidney',115
+11601,0,'North Saanich',116
+11700,0,'Dean Pk',117
+11701,0,'Sidney',117
 11800,0,'Airport',118
 11801,0,'Sidney',118
 257101,0,'James Bay',2571

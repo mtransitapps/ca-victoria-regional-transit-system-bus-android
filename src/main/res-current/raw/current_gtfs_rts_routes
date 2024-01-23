@@ -23,6 +23,7 @@
 84,'30','Royal Oak Exch / Downtown','AC5C3B',1788,3
 85,'31','Royal Oak Exch / Downtown','875D9F',1789,3
 86,'32','Cordova Bay / Royal Oak Exch','7C3F25',1790,3
+87,'35','Rdg','91278F',1791,3
 88,'39','Westhills / Interurban / Royal Oak / UVic','FFC20E',1792,3
 89,'43','Royal Roads Via Belmont Pk','004B8D',1793,3
 90,'46','Dockyard / Westhills','8CC63F',1815,3
@@ -48,6 +49,8 @@
 113,'81','Brentwood / Saanichton / Sidney / Swartz Bay','875D9F',48659,3
 114,'82','Sidney / Saanichton Via Stautw','7C3F25',48660,3
 115,'83','Sidney / Brentwood / Royal Oak','91278F',48661,3
+116,'85','North Saanich','FFC20E',48662,3
+117,'87','Saanichton / Sidney Via Dean Pk','004B8D',48663,3
 118,'88','Airport / Sidney','8CC63F',48664,3
 2571,'5','James Bay / Willows','8177B7',1542237,3
 3434,'95','Langford / Downtown RAPIDBUS','FCAF17',1570946,3
