@@ -29,7 +29,7 @@
 1501,0,'Esquimalt',15
 1500,0,'UVic',15
 2101,0,'Downtown',21
-2100,0,'Interurban',21
+2100,0,'VI Tech Pk',21
 2201,0,'Hillside Ctr',22
 2200,0,'Vic General',22
 2400,0,'Cedar Hl',24
@@ -71,7 +71,7 @@
 5500,0,'Langford Exch',55
 5501,0,'William Head',55
 5701,0,'Langford Exch',57
-5700,0,'Thetis Hgts',57
+5700,0,'Thetis Hts',57
 5801,0,'Goldstream Mdws',58
 5800,0,'Langford Exch',58
 5900,0,'Langford Exch',59
@@ -100,22 +100,22 @@
 8301,0,'Royal Oak Exch',83
 8300,0,'Sidney',83
 8500,0,'North Saanich',85
-8701,0,'Dean Pk',87
+8701,0,'Saanichton',87
 8700,0,'Sidney',87
 8801,0,'Airport',88
 8800,0,'Sidney',88
 9501,0,'Langford Exch B:C',95
 9500,0,'Legislature Exch',95
-1000601,0,'A Downtown',10006
-1000600,0,'A Royal Oak Exch',10006
-1002201,0,'A Hillside Ctr',10022
-1002200,0,'A Vic General',10022
-2000601,0,'B Downtown',20006
-2000600,0,'B Royal Oak Exch',20006
-14000700,0,'N Downtown',140007
-14000701,0,'N UVic',140007
+1000601,0,'Downtown',10006
+1000600,0,'Royal Oak Exch',10006
+1002201,0,'Hillside Ctr',10022
+1002200,0,'Vic General',10022
+2000601,0,'Downtown',20006
+2000600,0,'Royal Oak Exch',20006
+14000700,0,'Downtown',140007
+14000701,0,'UVic',140007
 14002100,0,'Camosun',140021
 24002701,0,'Fairfield Rd @ Blanshard St',240027
 24002700,0,'Tyndall Ave @ Grandview Dr',240027
-24002800,0,'X',240028
-24007001,0,'X',240070
+24002800,0,'Majestic',240028
+24007001,0,'Victoria',240070
