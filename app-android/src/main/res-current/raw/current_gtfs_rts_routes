@@ -10,9 +10,9 @@
 10,'10','James Bay / Royal Jubilee','49176B',1567,3
 11,'11','Tillicum Ctr / UVic','B2BB1E',1568,3
 12,'12','University Hts / UVic','4F6F19',1569,3
-13,'13','Ten Mile Pt / UVic','77AF99',1570,3
 14,'14','Vic General / UVic','E270AB',1571,3
 15,'15','Esquimalt / UVic','5D87A1',1572,3
+17,'17','Cedar Hl','F49A5D',1574,3
 21,'21','Interurban / Downtown','B3AA7E',1599,3
 22,'22','Vic General / Hillside Ctr','BF83B9',1600,3
 24,'24','Cedar Hl / Tillicum Ctr','A54499',1602,3
@@ -56,7 +56,9 @@
 95,'95','Langford / Downtown Blink','FCAF17',1820,3
 10006,'6A','Royal Oak Exch / Downtown Via Emily Carr','FCAF17',1739,3
 10022,'22A','Vic General / Hillside Ctr Via Strawberry Vale','BF83B9',49665,3
+10026,'26A','UVic / Uptown Via Saanich Rd','B06E0E',49789,3
 20006,'6B','Royal Oak Exch / Downtown Via Chatterton','FCAF17',1740,3
+20026,'26B','UVic / Uptown Via Carey Rd','B06E0E',49790,3
 140007,'7N','UVic / Downtown Night Route','00AA47',1783,3
 140021,'21N','Interurban Night Route','B3AA7E',49647,3
 240027,'27X','Downtown Express','8E0C3A',49843,3
