@@ -1,10 +1,10 @@
 1,'1','South Oak Bay / Downtown','004B8D',49,3
 2,'2','James Bay / South Oak Bay','8CC63F',50,3
 3,'3','James Bay / Royal Jubilee','F37421',51,3
-4,'4','UVic / Downtown','00AEEF',52,3
+4,'4','UVic / Downtown Via Hillside','00AEEF',52,3
 5,'5','James Bay / Willows','8177B7',53,3
 6,'6','Royal Oak Exch / Downtown','FCAF17',54,3
-7,'7','UVic / Downtown','00AA47',55,3
+7,'7','UVic / Downtown Via Fairfield','00AA47',55,3
 8,'8','Interurban / Tillicum Ctr / Oak Bay','ED1D8F',56,3
 9,'9','Royal Oak / UVic','8177B7',57,3
 10,'10','James Bay / Royal Jubilee','49176B',1567,3
@@ -17,7 +17,7 @@
 22,'22','Vic General / Hillside Ctr','BF83B9',1600,3
 24,'24','Cedar Hl / Tillicum Ctr','A54499',1602,3
 25,'25','Maplewood / Tillicum Ctr','00B5AD',1603,3
-26,'26','Dockyard / UVic','B06E0E',1604,3
+26,'26','UVic / Dockyard','B06E0E',1604,3
 27,'27','Gordon Head / Downtown','8E0C3A',1605,3
 28,'28','Majestic / Downtown','E31937',1606,3
 30,'30','Royal Oak Exch / Downtown','AC5C3B',1629,3
@@ -59,7 +59,7 @@
 10026,'26A','UVic / Uptown Via Saanich Rd','B06E0E',49789,3
 20006,'6B','Royal Oak Exch / Downtown Via Chatterton','FCAF17',1740,3
 20026,'26B','UVic / Uptown Via Carey Rd','B06E0E',49790,3
-140007,'7N','UVic / Downtown Night Route','00AA47',1783,3
+140007,'7N','UVic / Downtown Via Fairfield Night Route','00AA47',1783,3
 140021,'21N','Interurban Night Route','B3AA7E',49647,3
 240027,'27X','Downtown Express','8E0C3A',49843,3
 240028,'28X','Majestic Express','E31937',49874,3
