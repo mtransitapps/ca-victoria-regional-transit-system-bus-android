@@ -93,6 +93,8 @@
 7200,0,'Swartz Bay Ferry',72
 7501,0,'Downtown',75
 7500,0,'Saanichton Exch',75
+7600,0,'Swartz Bay Ferry',76
+7601,0,'UVic',76
 8101,0,'Brentwood',81
 8100,0,'Swartz Bay Ferry',81
 8201,0,'Brentwood',82
@@ -113,6 +115,7 @@
 1002601,0,'Uptown',10026
 2000601,0,'Downtown',20006
 2000600,0,'Royal Oak Exch',20006
+2002601,0,'Uptown',20026
 14000700,0,'Downtown',140007
 14000701,0,'UVic',140007
 14002100,0,'Camosun',140021
