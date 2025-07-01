@@ -26,8 +26,6 @@
 1401,0,'Vic General',14
 1501,0,'Esquimalt',15
 1500,0,'UVic',15
-1701,0,'Downtown',17
-1700,0,'UVic',17
 2101,0,'Downtown',21
 2100,0,'VI Tech Pk',21
 2201,0,'Hillside Ctr',22
@@ -95,7 +93,7 @@
 7500,0,'Saanichton Exch',75
 8101,0,'Brentwood',81
 8100,0,'Swartz Bay Ferry',81
-8201,0,'Brentwood',82
+8201,0,'Saanichton Exch',82
 8200,0,'Sidney',82
 8301,0,'Royal Oak Exch',83
 8300,0,'Sidney',83
@@ -110,7 +108,6 @@
 1000600,0,'Royal Oak Exch',10006
 1002201,0,'Hillside Ctr',10022
 1002200,0,'Vic General',10022
-1002601,0,'Uptown',10026
 2000601,0,'Downtown',20006
 2000600,0,'Royal Oak Exch',20006
 14000700,0,'Downtown',140007
