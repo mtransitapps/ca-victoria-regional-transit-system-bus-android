@@ -49,8 +49,12 @@
 3200,0,'Cordova Bay',32
 3201,0,'Downtown',32
 3500,0,'Rdg',35
+3800,0,'Royal Oak Exch',38
+3801,0,'Westhills Exch',38
+3901,0,'Interurban',39
 3900,0,'UVic',39
-3901,0,'Westhills Exch',39
+4001,0,'Dockyard',40
+4000,0,'UVic',40
 4300,0,'Belmont Pk',43
 4600,0,'Dockyard',46
 4601,0,'Westhills Exch',46
@@ -60,8 +64,6 @@
 4801,0,'Happy Vly',48
 4901,0,'Langford Exch',49
 4900,0,'Skirt Mtn',49
-5101,0,'Langford',51
-5100,0,'UVic',51
 5201,0,'Bear Mtn',52
 5200,0,'Colwood Exch',52
 5300,0,'Downtown',53
@@ -92,16 +94,16 @@
 7201,0,'Downtown',72
 7200,0,'Swartz Bay Ferry',72
 7501,0,'Downtown',75
-7500,0,'Saanichton Exch',75
-8101,0,'Brentwood',81
+7500,0,'Route 81 / Saanichton Exch',75
+7600,0,'Swartz Bay Ferry',76
+7601,0,'UVic',76
+8101,0,'Saanichton Exch',81
 8100,0,'Swartz Bay Ferry',81
-8201,0,'Brentwood',82
-8200,0,'Sidney',82
 8301,0,'Royal Oak Exch',83
 8300,0,'Sidney',83
 8500,0,'North Saanich',85
-8701,0,'Saanichton',87
 8700,0,'Sidney',87
+8701,0,'Tsawout',87
 8801,0,'Airport',88
 8800,0,'Sidney',88
 9501,0,'Langford Exch B:C',95
@@ -111,6 +113,8 @@
 1002201,0,'Hillside Ctr',10022
 1002200,0,'Vic General',10022
 1002601,0,'Uptown',10026
+1008801,0,'Airport',10088
+1008800,0,'Sidney',10088
 2000601,0,'Downtown',20006
 2000600,0,'Royal Oak Exch',20006
 14000700,0,'Downtown',140007
@@ -119,4 +123,6 @@
 24002701,0,'Fairfield Rd @ Blanshard St',240027
 24002700,0,'Tyndall Ave @ Grandview Dr',240027
 24002800,0,'Majestic',240028
+24005100,0,'UVic',240051
+24005101,0,'Westhills Exch',240051
 24007001,0,'Victoria',240070
