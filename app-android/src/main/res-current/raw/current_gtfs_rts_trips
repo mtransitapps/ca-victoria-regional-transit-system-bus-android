@@ -1,6 +1,6 @@
 101,0,'Downtown',1
 100,0,'South Oak Bay',1
-201,0,'James Bay',2
+201,0,'Drop Off',2
 200,0,'South Oak Bay',2
 300,0,'James Bay',3
 301,0,'Royal Jubilee',3
@@ -10,13 +10,13 @@
 500,0,'Willows',5
 601,0,'Downtown',6
 600,0,'Royal Oak Exch',6
-700,0,'Downtown',7
+700,0,'Downtown / Drop Off',7
 701,0,'UVic',7
 801,0,'Interurban',8
 800,0,'Oak Bay',8
 901,0,'Royal Oak Exch',9
 900,0,'UVic',9
-1001,0,'James Bay',10
+1001,0,'Drop Off',10
 1000,0,'Royal Jubilee',10
 1101,0,'Tillicum Ctr',11
 1100,0,'UVic',11
@@ -78,8 +78,8 @@
 5800,0,'Langford Exch',58
 5900,0,'Langford Exch',59
 5901,0,'Royal Bay Exch',59
+6001,0,'Drop Off',60
 6000,0,'Langford Exch',60
-6001,0,'Royal Bay Exch',60
 6100,0,'Downtown',61
 6101,0,'Sooke',61
 6301,0,'Otter Pt',63
@@ -117,7 +117,7 @@
 1008800,0,'Sidney',10088
 2000601,0,'Downtown',20006
 2000600,0,'Royal Oak Exch',20006
-14000700,0,'Downtown',140007
+14000700,0,'Drop Off',140007
 14000701,0,'UVic',140007
 14002100,0,'Camosun',140021
 24002701,0,'Fairfield Rd @ Blanshard St',240027
