@@ -1,0 +1,54 @@
+{
+    "default_route_id_enabled": true,
+    "use_route_short_name_for_route_id": false,
+    "route_id_cleanup_regex": "\\-[A-Z]+$",
+    "default_route_long_name_enabled": true,
+    "direction_finder_enabled": true,
+    "direction_finder_disabled_until": {
+        "21": "20260725"
+    },
+    "trip_headsign_remove_via": true,
+    "trip_headsign_cleaners": [
+        {
+            "regex": "(^\\d+)",
+            "ignore_case": true
+        },
+        {
+            "regex": "Hghts",
+            "is_word": true,
+            "replacement": "Hts"
+        },
+        {
+            "regex": "( - .*$)",
+            "ignore_case": true
+        },
+        {
+            "regex": "( express.*$)",
+            "ignore_case": true
+        },
+        {
+            "regex": "( non-stop$)",
+            "ignore_case": true
+        },
+        {
+            "regex": "( only$)",
+            "ignore_case": true
+        }
+    ],
+    "stop_name_cleaners": [
+        {
+            "regex": "(^(\\(-DCOM-\\)))",
+            "ignore_case": true
+        },
+        {
+            "regex": "(^(\\(-IMPL-\\)))",
+            "ignore_case": true
+        },
+        {
+            "regex": "uvic",
+            "ignore_case": true,
+            "is_word": true,
+            "replacement": "UVic"
+        }
+    ]
+}

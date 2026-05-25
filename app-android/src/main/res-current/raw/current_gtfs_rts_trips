@@ -10,7 +10,7 @@
 500,0,'Willows',5
 601,0,'Downtown',6
 600,0,'Royal Oak Exch',6
-700,0,'Downtown / Drop Off',7
+700,0,'Downtown/Drop Off',7
 701,0,'UVic',7
 801,0,'Interurban',8
 800,0,'Oak Bay',8
@@ -28,11 +28,11 @@
 1500,0,'UVic',15
 1701,0,'Downtown',17
 1700,0,'UVic',17
+2100,0,'Camosun/VI Tech Park/Viaduct Loop',21
 2101,0,'Downtown',21
-2100,0,'VI Tech Pk',21
 2201,0,'Hillside Ctr',22
 2200,0,'Vic General',22
-2400,0,'Cedar Hl',24
+2400,0,'Cedar Hill',24
 2401,0,'Tillicum Ctr',24
 2500,0,'Maplewood',25
 2501,0,'Tillicum Ctr',25
@@ -48,23 +48,23 @@
 3100,0,'Royal Oak Exch',31
 3200,0,'Cordova Bay',32
 3201,0,'Downtown',32
-3500,0,'Rdg',35
+3500,0,'Ridge',35
 3800,0,'Royal Oak Exch',38
 3801,0,'Westhills Exch',38
 3901,0,'Interurban',39
 3900,0,'UVic',39
 4001,0,'Dockyard',40
 4000,0,'UVic',40
-4300,0,'Belmont Pk',43
+4300,0,'Belmont Park',43
 4600,0,'Dockyard',46
 4601,0,'Westhills Exch',46
 4700,0,'Downtown',47
 4701,0,'Goldstream Mdws',47
 4800,0,'Downtown',48
-4801,0,'Happy Vly',48
+4801,0,'Happy Valley',48
 4901,0,'Langford Exch',49
 4900,0,'Skirt Mtn',49
-5201,0,'Bear Mtn',52
+5201,0,'Bear Mountain',52
 5200,0,'Colwood Exch',52
 5300,0,'Downtown',53
 5301,0,'Langford Exch',53
@@ -82,7 +82,7 @@
 6000,0,'Langford Exch',60
 6100,0,'Downtown',61
 6101,0,'Sooke',61
-6301,0,'Otter Pt',63
+6301,0,'Otter Point',63
 6400,0,'Langford Exch',64
 6401,0,'Sooke',64
 6500,0,'Downtown',65
@@ -94,7 +94,7 @@
 7201,0,'Downtown',72
 7200,0,'Swartz Bay Ferry',72
 7501,0,'Downtown',75
-7500,0,'Route 81 / Saanichton Exch',75
+7500,0,'Route 81/Saanichton Exch',75
 8101,0,'Saanichton Exch',81
 8100,0,'Swartz Bay Ferry',81
 8301,0,'Royal Oak Exch',83
