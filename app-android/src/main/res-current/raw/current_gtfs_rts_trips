@@ -26,8 +26,8 @@
 1401,0,'Vic General',14
 1501,0,'Esquimalt',15
 1500,0,'UVic',15
-2100,0,'Camosun/VI Tech Park/Viaduct Loop',21
 2101,0,'Downtown',21
+2100,0,'VI Tech Park',21
 2201,0,'Hillside Ctr',22
 2200,0,'Vic General',22
 2400,0,'Cedar Hill',24
@@ -93,6 +93,7 @@
 7200,0,'Swartz Bay Ferry',72
 7501,0,'Downtown',75
 7500,0,'Route 81/Saanichton Exch',75
+7601,0,'UVic',76
 8101,0,'Saanichton Exch',81
 8100,0,'Swartz Bay Ferry',81
 8301,0,'Royal Oak Exch',83
