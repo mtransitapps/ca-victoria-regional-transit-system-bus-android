@@ -10,7 +10,7 @@
 500,0,'Willows',5
 601,0,'Downtown',6
 600,0,'Royal Oak Exch',6
-700,0,'Downtown',7
+700,0,'Downtown/Drop Off',7
 701,0,'UVic',7
 801,0,'Interurban',8
 800,0,'Oak Bay',8
@@ -26,6 +26,8 @@
 1401,0,'Vic General',14
 1501,0,'Esquimalt',15
 1500,0,'UVic',15
+1701,0,'Downtown',17
+1700,0,'UVic',17
 2101,0,'Downtown',21
 2100,0,'VI Tech Park',21
 2201,0,'Hillside Ctr',22
@@ -76,8 +78,8 @@
 5800,0,'Langford Exch',58
 5900,0,'Langford Exch',59
 5901,0,'Royal Bay Exch',59
+6001,0,'Drop Off',60
 6000,0,'Langford Exch',60
-6001,0,'Royal Bay Exch',60
 6100,0,'Downtown',61
 6101,0,'Sooke',61
 6301,0,'Otter Point',63
@@ -93,6 +95,7 @@
 7200,0,'Swartz Bay Ferry',72
 7501,0,'Downtown',75
 7500,0,'Route 81/Saanichton Exch',75
+7600,0,'Swartz Bay Ferry',76
 7601,0,'UVic',76
 8101,0,'Saanichton Exch',81
 8100,0,'Swartz Bay Ferry',81
@@ -109,6 +112,9 @@
 1000600,0,'Royal Oak Exch',10006
 1002201,0,'Hillside Ctr',10022
 1002200,0,'Vic General',10022
+1002601,0,'Uptown',10026
+1007201,0,'Downtown',10072
+1007200,0,'Swartz Bay Ferry',10072
 1008801,0,'Airport',10088
 1008800,0,'Sidney',10088
 2000601,0,'Downtown',20006
